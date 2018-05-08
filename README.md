@@ -28,7 +28,7 @@ To install the software, follow the below steps:
 * Open the project in the respective IDE.
 * Create a database for the project on MySQL or import an existing one.
 * Connect to MySQL by inputing the user, password and database in the msql-handler.js file (employee-directory/src/backend/handlers/msql-handler.js)
-* Install node modules by executiing 'npm intall --save' on the command line inside the project root folder.
+* Install node modules by executiing 'npm install --save' on the command line inside the project root folder.
 * Run the server by executing 'babel-node index.js' in the command line inside backend folder (employee-directory/src/backend)
 * Start the application by executing 'npm start' in the command line.
 * Open a web browser and enter 'http://localhost:8080'
